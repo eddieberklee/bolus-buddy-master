@@ -10,7 +10,8 @@ I wanted to create an app to help people, like myself, with Type-1 Diabetes. Thi
 
 I prefer a minimal design with few colors and subtlety in the app. I try to follow the Material Guidelines that Google provides to a certain extent, but feel that showing my own flair for design is a more important thing than almost anything else.
 
-(http://i.imgur.com/YK8Yltl.png)
+
+![Main Screen](http://i.imgur.com/YK8Yltl.png)
 
 ### Contact
 
