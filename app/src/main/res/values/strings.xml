@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bolus Buddy</string>
+
+    <string name="for_string">FOR</string>
+    <string name="use">USE</string>
+    <string name="carbohydrates">Grams of carbohydrates.</string>
+    <string name="units_of_insulin">Units of insulin.</string>
+    <string name="base_carbs">30</string>
+    <string name="carbs_bar_hint">Carbohydrates eaten.</string>
+    <string name="change_ratio">How many grams of carbohydrates means one unit of insulin for you?</string>
+    <string name="bolus_ratio">Grams per unit of insulin</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
