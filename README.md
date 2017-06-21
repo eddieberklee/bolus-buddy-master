@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bolus Buddy
 
-You can use the [editor on GitHub](https://github.com/Coffeegerm/bolus-buddy-master/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A simple app that enables diabetics to easily calculate the amount of insulin they need based on the amound of carbs they have recently eaten and their food to insulin bolus ratio. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goals of this app.
 
-### Markdown
+I wanted to create an app to help people, like myself, with Type-1 Diabetes. This was my first independent endeavor into Android Development, after spending several months toying and playing with it.I plan to continue working with Android, Java, and Kotlin in the future.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Design
 
-```markdown
-Syntax highlighted code block
+I prefer a minimal design with few colors and subtlety in the app. I try to follow the Material Guidelines that Google provides to a certain extent, but feel that showing my own flair for design is a more important thing than almost anything else.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coffeegerm/bolus-buddy-master/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find me on [Twitter](https://twitter.com/coffeegrm) if any questions, suggestions, or contact needs arise.
